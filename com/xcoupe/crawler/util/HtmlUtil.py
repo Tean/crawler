@@ -8,3 +8,5 @@ def get_html(url):
 
 def get_tag_from_html(html):
     # SGMLParser
+    return
+
